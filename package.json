@@ -26,5 +26,6 @@
     "astro-seo": "^0.6.0",
     "markdown-it": "^13.0.1",
     "sass": "^1.56.1"
-  }
+  },
+  "packageManager": "yarn@3.5.1"
 }
